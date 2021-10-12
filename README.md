@@ -1,4 +1,4 @@
-Webpack 4 + TypeScript starter
+# Webpack 4 + TypeScript starter
 
 ## Features
 
@@ -30,13 +30,3 @@ npm run build
 npm run build.all
 
 ```
-## Contributions
-
-Of course! Open an issue and let's discuss :smiley:.
-
-## Links and other useful stuff
-
-Similar projects that could be a point of inspiration:
-
-- [krasimir/webpack-library-starter](https://github.com/krasimir/webpack-library-starter)
-
